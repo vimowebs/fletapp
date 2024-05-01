@@ -1,0 +1,3 @@
+[build-system]
+requires = ["flet"]
+build-backend = "flet.build_backend"
